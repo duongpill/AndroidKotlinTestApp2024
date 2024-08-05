@@ -4,6 +4,7 @@
 **MVVM**
 
 **Some main libs:**
+- Jetpack Compose
 - Navigation
 - Retrofit
 - Coroutine
