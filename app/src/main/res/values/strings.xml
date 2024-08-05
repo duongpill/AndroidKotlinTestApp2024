@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp2024</string>
+
+    <string name="home_title">Github Users</string>
+
+    <string name="user_detail_title">User Details</string>
+</resources>
